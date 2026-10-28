@@ -1,0 +1,878 @@
+FRAUDMESH 2.0 — ULTIMATE MASTER DEVELOPMENT PROMPT
+
+PROJECT IDENTITY
+
+Project Name: FraudMesh 2.0
+
+Subtitle: Intelligent Financial Crime Detection & Graph Forensic Platform
+
+Tagline: Uncover Hidden Connections. Decode Financial Crime.
+
+Product Vision: Transform FraudMesh into a visually extraordinary, technically rigorous, professional-grade financial intelligence and forensic investigation application.
+
+You are acting as a multidisciplinary expert team consisting of:
+
+- Senior Full-Stack Software Architect
+- Financial Crime and AML Domain Specialist
+- Graph Algorithms and Forensic Intelligence Engineer
+- Machine Learning and Data Science Engineer
+- AI Agent and Explainability Engineer
+- Premium UI/UX Product Designer
+- Creative Motion Graphics Engineer
+- D3.js Data Visualization Specialist
+- Software Testing and Quality Assurance Engineer
+
+Your responsibility is to inspect, reorganize, improve, and complete the EXISTING FraudMesh application.
+
+CRITICAL RULE: DO NOT rebuild the application unnecessarily, delete existing features, overwrite working algorithms, or replace genuine results with fabricated outputs.
+
+First inspect the entire existing codebase, identify all available features, dependencies, routes, state stores, algorithms, APIs, and data structures.
+
+Preserve the existing fraud detection engine, Digital DNA system, ARTT traversal, ML benchmarking, synthetic banking mesh, AI Copilot, and investigation management.
+
+Refactor only where necessary.
+
+The final result must feel like a polished enterprise-grade financial forensic intelligence product, not a collection of disconnected student-project pages.
+
+---
+
+PHASE 1 — COMPLETE APPLICATION REORGANIZATION
+
+1.1 New Information Architecture
+
+Create a beautiful collapsible left navigation sidebar containing eight primary modules.
+
+MODULE 1 — COMMAND CENTER
+
+This is the main landing dashboard and executive intelligence overview.
+
+Include:
+
+1. Total Banking Accounts
+2. Total Transactions
+3. Total Transaction Volume in INR
+4. High-Risk Accounts
+5. Suspicious Transactions
+6. Active Investigations
+7. Detected Fraud Networks
+8. Overall Network Risk Distribution
+
+Use real calculated data from the existing application.
+
+Visual Components
+
+- Premium animated KPI cards
+- Live transaction activity chart
+- Risk distribution donut chart
+- Fraud typology comparison chart
+- Recent suspicious transaction table
+- High-risk account leaderboard
+- Miniature interactive network preview
+- Detection activity timeline
+- Recent investigation case cards
+
+KPI numbers should animate smoothly when values change.
+
+All visualizations must be connected to actual application state.
+
+Never use random values to simulate real detection results.
+
+Provide an explicit DEMO MODE indicator for synthetic scenarios.
+
+MODULE 2 — BANKING & TRANSACTIONS
+
+Organize the existing banking mesh and transaction processing functionality.
+
+Subsections:
+
+- Account Explorer
+- Transaction Ledger
+- Transaction Simulator
+- CSV Import & Validation
+- Account Balance Monitoring
+- Data Integrity Status
+
+Account Explorer must show account type, balance, transaction count, counterparties, risk score, Digital DNA status, and associated alerts.
+
+Transaction Ledger must include advanced sorting, search, filtering, pagination, transaction details, and INR currency formatting.
+
+Transaction Simulator must support transfers between synthetic accounts with proper validation, idempotency, timestamp checks, and atomic ledger updates.
+
+MODULE 3 — MONEY TRAIL EXPLORER
+
+This is the signature visual experience of FraudMesh.
+
+Integrate the D3.js directed money-flow graph, structural fraud detectors, and ARTT traversal.
+
+Subsections:
+
+- Interactive Network Graph
+- Fraud Topology Explorer
+- ARTT Forensic Traversal
+- Transaction Path Inspector
+- Rejected Path Analysis
+
+Clicking an account should open a detailed information drawer without losing the graph position.
+
+Clicking an edge should reveal the underlying transaction evidence.
+
+MODULE 4 — BEHAVIORAL INTELLIGENCE
+
+Create a dedicated Digital DNA analysis workspace.
+
+Include all ten behavioral axes:
+
+1. Typical Amount
+2. Amount Variability
+3. Daily Transaction Frequency
+4. Activity Hours
+5. Counterparty Breadth
+6. Interval Compression
+7. Inflow/Outflow Pass-Through
+8. New Beneficiary Ratio
+9. Repeated Transaction Patterns
+10. Historical Behavioral Shift
+
+Provide an interactive ten-axis radar chart comparing historical baseline versus current behavior.
+
+Add baseline sample sufficiency, anomaly contribution, confidence/uncertainty indicators, and feature-level explanations.
+
+Do not invent missing historical observations.
+
+MODULE 5 — DETECTION & ML LAB
+
+Combine the centralized risk engine, eight fraud detectors, and five model benchmarks.
+
+Display all detectors:
+
+- DET-SPLIT
+- DET-CYCLE
+- DET-FAN
+- DET-PASSTHROUGH
+- DET-VELOCITY
+- DET-DNA
+- DET-ARTT
+- DET-SPLIT-MERGE
+
+Each detector should show:
+
+- Detector identifier
+- What it detects
+- Input features
+- Detection conditions
+- Threshold settings
+- Triggered accounts
+- Supporting transaction IDs
+- Risk contribution
+- Evidence explanation
+
+Machine learning benchmark models:
+
+1. Rule-Based Graph Engine
+2. Logistic Regression
+3. Random Forest
+4. Gradient Boosted Decision Trees
+5. Deep MLP Neural Network
+
+Clearly distinguish custom gradient boosting from actual XGBoost if the XGBoost library is not used.
+
+Show only metrics calculated from genuine predictions and labels.
+
+Include confusion matrix, precision, recall, F1, FPR, ROC-AUC where valid, and a decision-threshold slider.
+
+Include model comparison graphs and evaluation methodology.
+
+MODULE 6 — INTELLIGENCE LAB
+
+Create an interactive scenario simulation and learning environment.
+
+Preserve all six existing scenarios:
+
+1. Normal Transaction Flow
+2. Split Transaction Structuring
+3. Money Mule Chain
+4. Circular Wash Transfers
+5. Rapid Transaction Burst
+6. Split-and-Merge Network
+
+Each scenario must have:
+
+- Visual scenario card
+- Fraud topology illustration
+- Scenario explanation
+- Involved accounts
+- Transaction sequence
+- Run Scenario button
+- View Money Trail button
+- Inspect Detection button
+- Investigate with ARTT button
+
+Provide a scenario replay system that visually illustrates the progression of transactions.
+
+MODULE 7 — INVESTIGATION WORKSPACE
+
+Unify alerts, case management, AI Copilot, evidence inspection, and reporting.
+
+Subsections:
+
+- Alert Inbox
+- Case Investigation Board
+- AI Forensic Copilot
+- Evidence Timeline
+- Case Dossier
+- Report Generator
+
+Every alert must link to the underlying transaction and account evidence.
+
+Cases should preserve source references and investigator actions.
+
+The Copilot must use actual available evidence, clearly distinguish facts from inferences, and avoid unsupported accusations.
+
+Formal regulatory submission must require authorized human review.
+
+MODULE 8 — ADMINISTRATION & AUDIT
+
+Include:
+
+- User and Role Management
+- Detector Configuration
+- Model Configuration
+- Data Management
+- Audit Logs
+- API Configuration
+- System Health
+- Test Suite Status
+
+Do not expose API keys in the frontend.
+
+Display actual test results, not hardcoded passing statuses.
+
+---
+
+PHASE 2 — PREMIUM WHITE/LIGHT UI DESIGN SYSTEM
+
+2.1 Visual Design Direction
+
+The entire application must follow a premium, sophisticated, futuristic financial technology aesthetic.
+
+Primary Theme: White / Pearl White / Frosted Glass
+
+Design Personality:
+
+- Elegant
+- Minimal
+- Scientific
+- Premium
+- Futuristic
+- Highly readable
+- Interactive
+- Enterprise-grade
+
+The interface should resemble a premium financial intelligence command center.
+
+Avoid generic admin templates, overly saturated gradients, excessive shadows, cluttered layouts, and dark backgrounds.
+
+2.2 Color Palette
+
+Use the following design tokens as a starting point:
+
+Purpose| Color
+Main Background| #F8FAFD
+Pure White Surface| #FFFFFF
+Secondary Surface| #F1F5F9
+Primary Brand| #2563EB
+Premium Accent| #6366F1
+Cyan Highlight| #06B6D4
+Low Risk| #059669
+Medium Risk| #D97706
+High Risk| #DC2626
+Primary Text| #0F172A
+Secondary Text| #64748B
+Border| #E2E8F0
+
+Use gradients sparingly, especially for illustrations and active selections.
+
+2.3 Glassmorphism Design
+
+Implement high-quality frosted glass effects using:
+
+- Semi-transparent white surfaces
+- Backdrop blur
+- Fine translucent borders
+- Soft layered shadows
+- Subtle ambient highlights
+- Floating depth effects
+- Rounded corners
+- Gentle hover elevation
+
+Suggested CSS:
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.78);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  border-radius: 20px;
+  box-shadow:
+    0 8px 32px rgba(15, 23, 42, 0.05),
+    0 2px 8px rgba(15, 23, 42, 0.03);
+}
+
+Always maintain readable contrast. Avoid transparent text panels over complex graph backgrounds.
+
+2.4 Typography
+
+Use a premium typography system:
+
+- Headings: Plus Jakarta Sans or Manrope
+- Body: Inter
+- Numerical Metrics: Inter with tabular numerals
+- Technical Identifiers: JetBrains Mono
+
+Establish consistent heading sizes, spacing, padding, line heights, and information hierarchy.
+
+Do not allow text clipping, overlapping labels, overflowing tables, or unreadable graph annotations.
+
+Use responsive layouts for desktop, laptop, tablet, and mobile.
+
+---
+
+PHASE 3 — ADVANCED GRAPHICAL ENGINES
+
+3.1 D3.js Money Trail Engine
+
+Upgrade the existing directed graph into a visually sophisticated forensic visualization.
+
+Required capabilities:
+
+- Smooth force-directed simulation
+- Node collision prevention
+- Stable layout positions
+- Directional transaction arrows
+- Weighted edges
+- Transaction amount labels
+- Risk-colored account nodes
+- Animated suspicious paths
+- Zoom and pan
+- Graph search
+- Account selection
+- Neighborhood expansion
+- Risk filters
+- Minimum amount filters
+- Timeline filters
+- SVG export
+
+Use D3.js for graph computation and interaction.
+
+Optimize rendering for the existing dataset.
+
+If necessary, use Canvas/WebGL rendering for large networks while preserving an accessible SVG or tabular alternative.
+
+Do not allow the graph to drift endlessly or freeze the UI.
+
+3.2 Live Money Flow Animation
+
+When a transaction is replayed:
+
+1. Highlight the sender account.
+2. Animate a directional pulse along the transaction edge.
+3. Highlight the receiver account.
+4. Update the visible ledger and risk indicators.
+5. Update related visualizations if the underlying data changes.
+
+Use visually restrained animated particles or glowing edge pulses.
+
+Normal transactions should use subtle blue/cyan animation.
+
+Suspicious transactions may use amber/red emphasis.
+
+The animation must represent the actual transaction sequence and timestamps.
+
+Provide play, pause, step-forward, speed selection, and reset.
+
+3.3 ARTT Traversal Visualization
+
+Implement an interactive forensic path animation.
+
+Display:
+
+- Current inspected account
+- Candidate outgoing edges
+- Priority score
+- Chronological eligibility
+- Retention ratio
+- Accepted path
+- Rejected edges
+- Rejection reason
+- Traversal depth
+- Elapsed time
+
+Animate ARTT decisions step-by-step.
+
+Include an explanation panel describing why a candidate path was selected.
+
+Do not claim exact fund tracing when the evidence only supports a plausible financial route.
+
+3.4 Advanced Visualization Library
+
+Use appropriate tools from the existing stack.
+
+Preferred technologies:
+
+- D3.js — directed transaction networks
+- Recharts or existing charting library — dashboard analytics
+- Framer Motion / Motion — page and component transitions
+- React Flow — explanatory architecture diagrams where useful
+- CSS/SVG — custom forensic visual effects
+
+Avoid adding unnecessary dependencies if equivalent functionality already exists.
+
+Charts must be interactive, responsive, accessible, and backed by actual data.
+
+---
+
+PHASE 4 — AI-GENERATED-STYLE GRAPHICAL ARTWORK
+
+Create a unified original visual identity for FraudMesh.
+
+Use high-quality vector illustrations, SVG compositions, procedural graphics, or available image-generation capabilities.
+
+Do not pretend that images were generated by an AI service if no image-generation service is connected.
+
+If native image generation is unavailable, create original SVG/CSS artwork instead.
+
+Required Artwork Concepts
+
+Artwork 1 — FraudMesh Hero Illustration
+
+A premium futuristic financial intelligence network floating in a white environment.
+
+Visual elements:
+
+- Transparent glass financial nodes
+- Thin blue connection lines
+- Suspicious crimson transaction routes
+- Central intelligence core
+- Floating transaction data panels
+- Soft cyan illumination
+- Pearl-white background
+- Elegant scientific visual language
+
+Use this on the welcome screen and presentation cover.
+
+Artwork 2 — Money Mule Chain
+
+Illustrate a directed multi-hop financial route with glowing transfer pulses and clearly labeled accounts.
+
+Artwork 3 — Circular Wash Network
+
+Create a clean circular topology with directional arrows, timestamps, and an animated closed-loop indicator.
+
+Artwork 4 — Split-and-Merge Network
+
+Show one origin account distributing money to four intermediaries, followed by consolidation at a destination account.
+
+Artwork 5 — Digital DNA
+
+Create an elegant ten-axis behavioral fingerprint visualization with glass-style chart panels.
+
+Artwork 6 — AI Forensic Intelligence
+
+Visualize an AI analysis core connected to verified transaction records, network evidence, and case documents.
+
+Artwork Rules
+
+- Prefer original scalable SVG assets.
+- Keep artwork consistent across all modules.
+- Use clean white backgrounds.
+- Use blue, cyan, indigo, amber, and red purposefully.
+- Avoid irrelevant robots, generic stock photography, and decorative imagery that obscures real data.
+- Artwork must enhance understanding rather than distract from the investigation.
+
+---
+
+PHASE 5 — LIVE UI TRANSITIONS AND MICROINTERACTIONS
+
+Create a consistent motion system.
+
+Page Transitions
+
+Use smooth opacity and short positional transitions.
+
+Recommended duration: 180–350 ms.
+
+Sidebar
+
+Implement animated collapse/expand behavior.
+
+Active module should have a subtle glass highlight and animated selection indicator.
+
+Dashboard Cards
+
+Use:
+
+- Smooth entrance animation
+- Hover elevation
+- Gentle border highlight
+- Animated metric changes
+- Expandable details where useful
+
+Charts
+
+Animate changes in underlying data without replaying unnecessary entrance animations on every render.
+
+Tables
+
+Use smooth filtering, sorting, row highlighting, and selection.
+
+Investigation Panels
+
+Use slide-in evidence drawers and animated case status changes.
+
+Loading States
+
+Implement skeleton loaders and meaningful progress indicators.
+
+Accessibility and Performance
+
+Respect reduced-motion preferences.
+
+Provide keyboard navigation, accessible labels, readable contrast, and stable focus management.
+
+Avoid unnecessary perpetual animations, expensive blur effects, and high CPU/GPU usage.
+
+The interface must remain usable on a typical student laptop.
+
+---
+
+PHASE 6 — LIVE DATA AND CROSS-MODULE SYNCHRONIZATION
+
+All modules must share a consistent application data model.
+
+When a transaction is created:
+
+1. Validate the transaction.
+2. Update the ledger.
+3. Update account balances.
+4. Update graph edges.
+5. Recalculate affected behavioral features.
+6. Run relevant detectors.
+7. Update risk scores.
+8. Refresh affected dashboard components.
+9. Make resulting evidence available to investigators.
+
+Use appropriate state management based on the existing architecture.
+
+Avoid duplicate calculations, inconsistent risk scores, and stale visualizations.
+
+Provide an event-driven or reactive update mechanism.
+
+Distinguish clearly between:
+
+- Real stored transactions
+- Synthetic demonstration transactions
+- Replayed historical transactions
+- Derived analytical results
+
+Never label synthetic replay as real-time banking activity.
+
+---
+
+PHASE 7 — FORENSIC INTELLIGENCE AND ML CORRECTNESS
+
+7.1 Risk Scoring
+
+Maintain a centralized, explainable risk engine.
+
+Show:
+
+- Triggered detector signals
+- Behavioral anomaly contribution
+- Graph topology contribution
+- Temporal pathway contribution
+- Model inference contribution, if applicable
+- Final score
+- Risk classification
+- Available confidence or uncertainty information
+
+Document the actual scoring formula and weights.
+
+Do not fabricate model confidence values.
+
+7.2 Machine Learning
+
+Audit the five existing benchmark models.
+
+Verify:
+
+- Genuine training process
+- Ground-truth label definitions
+- Feature preparation
+- Train/test separation
+- Leakage prevention
+- Reproducibility
+- Evaluation formulas
+- Decision threshold behavior
+
+Use grouped or chronological holdouts where appropriate.
+
+Avoid training and evaluating on overlapping synthetic fraud networks.
+
+Provide honest evaluation limitations.
+
+7.3 Digital DNA
+
+Define a configurable minimum historical sample requirement.
+
+Display sufficient or insufficient baseline status.
+
+Use robust statistical features where appropriate.
+
+Clearly distinguish anomalous behavior from confirmed fraud.
+
+7.4 ARTT
+
+Preserve chronological and retention constraints.
+
+Make all traversal scoring weights explicit.
+
+Provide rejected-edge explanations.
+
+Maintain deterministic results for fixed inputs and configurations.
+
+7.5 AI Copilot
+
+Preserve the existing server-side Gemini integration and deterministic fallback.
+
+Verify the configured model ID is supported.
+
+Never expose the API key to the client.
+
+Ground every forensic claim in transaction IDs, detector evidence, or graph-derived findings.
+
+The AI must not invent facts or automatically accuse customers of crimes.
+
+Require investigator approval for formal escalation and reporting.
+
+---
+
+PHASE 8 — BUILT-IN PRESENTATION AND SHOWCASE MODE
+
+Create a dedicated Presentation Mode accessible from the application header.
+
+This mode is intended for faculty evaluation, academic demonstrations, technical presentations, and project exhibitions.
+
+Use the same premium white/glass design system.
+
+Provide fullscreen presentation support.
+
+Create the following ten presentation screens:
+
+SCREEN 1 — PROJECT INTRODUCTION
+
+FraudMesh 2.0
+
+Intelligent Financial Crime Detection & Graph Forensic Platform
+
+Tagline: Uncover Hidden Connections. Decode Financial Crime.
+
+Show the premium financial network hero artwork.
+
+SCREEN 2 — PROBLEM STATEMENT
+
+Explain how isolated transaction monitoring can miss coordinated financial crime.
+
+Use visual comparisons between isolated payment analysis and network-based analysis.
+
+SCREEN 3 — PROPOSED SOLUTION
+
+Explain graph intelligence, fraud detectors, Digital DNA, ARTT, machine learning, and the forensic Copilot.
+
+SCREEN 4 — SYSTEM ARCHITECTURE
+
+Display the eight-stage pipeline with an animated flow diagram.
+
+SCREEN 5 — SYNTHETIC DATASET
+
+Present account types, transaction volume, scenario counts, and reproducibility information.
+
+SCREEN 6 — GRAPH-BASED FRAUD DETECTION
+
+Demonstrate suspicious transaction topologies with interactive network graphics.
+
+SCREEN 7 — DIGITAL DNA AND ARTT
+
+Explain behavioral anomalies and chronological money-trail traversal.
+
+SCREEN 8 — MACHINE LEARNING EVALUATION
+
+Present the five benchmark models with actual calculated evaluation metrics.
+
+Do not insert invented numerical performance results.
+
+SCREEN 9 — AI FORENSIC INVESTIGATION
+
+Show evidence-grounded Copilot output, case creation, and investigation reporting.
+
+SCREEN 10 — RESULTS, LIMITATIONS AND FUTURE SCOPE
+
+Present verified capabilities, actual test results, current limitations, and proposed future improvements.
+
+Presentation Interactions
+
+Include:
+
+- Next / Previous navigation
+- Keyboard arrow controls
+- Fullscreen mode
+- Slide progress indicator
+- Smooth transitions
+- Presenter-friendly explanatory notes
+- Live demo shortcuts
+- Exit Presentation Mode button
+
+The presentation must accurately reflect the implemented application.
+
+Do not hardcode claims of accuracy, performance, or completed features without evidence.
+
+---
+
+PHASE 9 — PROFESSIONAL FINISHING
+
+Responsiveness
+
+Support:
+
+- 1920px desktop
+- 1366px laptop
+- 1024px tablet
+- 768px small tablet
+- 390px mobile
+
+Prioritize desktop/laptop for the forensic graph experience.
+
+Empty and Error States
+
+Design polished states for:
+
+- No transactions
+- No matching accounts
+- No fraud detected
+- Insufficient behavioral history
+- No valid ARTT path
+- AI Copilot unavailable
+- Invalid CSV import
+- API failure
+- Model not trained
+- Insufficient test data
+
+Every state must be understandable and actionable.
+
+Formatting
+
+Use Indian currency formatting consistently.
+
+Examples:
+
+₹48,500
+
+₹3.10 lakh
+
+₹2.46 crore
+
+Use Asia/Kolkata timezone display for relevant transactions, preserving the original timestamp internally.
+
+Quality Assurance
+
+Run available automated tests.
+
+Verify navigation, filtering, account selection, graph interactions, ARTT playback, model metrics, case creation, report export, and presentation mode.
+
+Fix TypeScript errors, broken imports, runtime exceptions, invalid component properties, and layout issues.
+
+Never report a test as passing unless it was executed successfully.
+
+---
+
+PHASE 10 — IMPLEMENTATION EXECUTION RULES
+
+Follow this order:
+
+Step 1: Inspect the current codebase and identify existing functionality.
+
+Step 2: Produce an internal feature-to-module mapping and dependency plan.
+
+Step 3: Define reusable design tokens, typography, layout components, and navigation.
+
+Step 4: Reorganize the existing routes and module hierarchy without breaking behavior.
+
+Step 5: Build the premium Command Center.
+
+Step 6: Upgrade the D3.js Money Trail Explorer and ARTT visualization.
+
+Step 7: Upgrade Digital DNA, detector explanations, and ML visualizations.
+
+Step 8: Connect the Investigation Workspace and evidence-grounded Copilot.
+
+Step 9: Improve the Intelligence Lab and animated scenario replay.
+
+Step 10: Create original graphical artwork and the built-in Presentation Mode.
+
+Step 11: Add responsive styling, accessibility, performance optimization, and error handling.
+
+Step 12: Execute tests, repair issues, and verify the complete end-to-end demonstration.
+
+Implement the changes directly in the existing application.
+
+Do not stop after generating a plan.
+
+Do not replace complex working functionality with decorative mockups.
+
+If a requested capability cannot be completed because of missing dependencies, APIs, or data, retain existing functionality and clearly document the blocker.
+
+Avoid unnecessary rewrites.
+
+Use existing packages where possible.
+
+Keep components modular, reusable, typed, and maintainable.
+
+---
+
+FINAL ACCEPTANCE CRITERIA
+
+The application is complete only when:
+
+- All eight modules are accessible and logically organized.
+- Existing banking and forensic functionality remains operational.
+- The entire interface uses a coherent premium white/light theme.
+- Glassmorphism is implemented without harming readability.
+- D3.js graph exploration is interactive and stable.
+- Money-trail replay and ARTT traversal are animated.
+- Digital DNA displays ten-axis behavioral analysis.
+- Fraud detectors expose explainable evidence.
+- ML benchmarks display genuinely calculated metrics.
+- AI Copilot remains evidence-grounded.
+- Case management preserves transaction and alert references.
+- Presentation Mode contains ten complete screens.
+- Visual assets are consistent and original.
+- Desktop and mobile layouts do not overflow.
+- Tests are executed and their actual outcomes are reported.
+
+FINAL OBJECTIVE
+
+Transform the existing FraudMesh application into a cohesive, visually impressive, technically credible, demonstration-ready financial forensic intelligence platform.
+
+The final experience should make it immediately clear:
+
+1. What financial crime problem FraudMesh addresses.
+2. How suspicious transactions enter the system.
+3. How graph algorithms discover hidden financial relationships.
+4. How Digital DNA detects behavioral deviations.
+5. How ARTT reconstructs plausible chronological money trails.
+6. How machine learning assists risk prioritization.
+7. How the AI Copilot explains the available evidence.
+8. How investigators create traceable forensic cases.
+
+Prioritize working intelligence, scientific correctness, clear visual storytelling, and polished presentation quality.
+
+BEGIN BY INSPECTING THE EXISTING PROJECT, THEN IMPLEMENT THE COMPLETE UPGRADE IN LOGICAL, TESTABLE STAGES.

@@ -1,0 +1,6 @@
+{
+  "name": "FraudMesh",
+  "description": "Intelligent Financial Crime Detection & Graph Forensic Platform combining Money Trail Graph Intelligence, ARTT temporal traversal, Transaction Digital DNA, and AI Forensic Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
